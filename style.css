@@ -14,7 +14,7 @@ html, body {
 }
 
 body {
-    background: url("../assets/img/alchemik.png") center center no-repeat fixed;
+    background: url('assets/img/alchemik.png') center center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -113,7 +113,7 @@ img.rot {
 }
 
 .img-fone-folio {
-    background: url("../assets/img/fon-cod.png") center center no-repeat;
+    background: url('assets/img/fon-cod.png') center center no-repeat;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.85);
     width: 100vh;
     -webkit-background-size: cover;
@@ -180,7 +180,7 @@ img.rot {
 }
 
 .logotip-home:hover {
-    content: url("../assets/img/img/Logoblue.png");
+    content: url('assets/img/Logoblue.png');
     width: 13%;
     -webkit-animation: rotation 5s infinite linear;
 }
@@ -406,7 +406,7 @@ img.rot {
 
 #pyramid figure:first-child:after {
     position: absolute;
-    content: url("../assets/img/css.png");
+    content: url('assets/img/css.png');
     width: 150px;
     left: -315px;
     top: -91px;
@@ -414,7 +414,7 @@ img.rot {
 
 #pyramid figure:nth-child(3):after {
     position: absolute;
-    content: url("../assets/img/html.png");
+    content: url('assets/img/html.png');
     width: 150px;
     left: -315px;
     top: -91px;
@@ -422,7 +422,7 @@ img.rot {
 
 #pyramid figure:nth-child(2):after {
     position: absolute;
-    content: url("../assets/img/js.png");
+    content: url('assets/img/js.png');
     width: 150px;
     left: -315px;
     top: -91px;
@@ -430,7 +430,7 @@ img.rot {
 
 #pyramid figure:nth-child(4):after {
     position: absolute;
-    content: url("../assets/img/php.png");
+    content: url('assets/img/php.png');
     width: 2%;
     left: -315px;
     top: -91px;
@@ -438,7 +438,7 @@ img.rot {
 
 #pyramid figure:after {
     position: absolute;
-    content: url("../assets/img/html.png");
+    content: url('assets/img/html.png');
     width: 150px;
     left: -315px;
     top: -91px;
@@ -616,7 +616,7 @@ img.rot {
     -moz-transform-origin: top center;
     -ms-transform-origin: top center;
     transform-origin: top center;
-    content: url("../assets/img/css.png");
+    content: url('assets/img/css.png');
 }
 
 .bottom {
@@ -628,7 +628,7 @@ img.rot {
     -moz-transform-origin: bottom center;
     -ms-transform-origin: bottom center;
     transform-origin: bottom center;
-    content: url("../assets/img/html.png");
+    content: url('assets/img/html.png');
 }
 
 .left {
@@ -640,7 +640,7 @@ img.rot {
     -moz-transform-origin: center left;
     -ms-transform-origin: center left;
     transform-origin: center left;
-    content: url("../assets/img/img/php1.png");
+    content: url('assets/img/php1.png');
 }
 
 .right {
@@ -652,5 +652,5 @@ img.rot {
     -moz-transform-origin: top right;
     -ms-transform-origin: top right;
     transform-origin: top right;
-    content: url("../assets/img/js.png");
+    content: url('assets/img/js.png');
 }
